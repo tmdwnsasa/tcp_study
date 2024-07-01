@@ -1,0 +1,13 @@
+{
+  "name": "item_unlock",
+  "version": "1.0.0",
+  "data": [
+    { "id": 101, "stage_id": 1000, "min_item_id": 0, "max_item_id": 0 },
+    { "id": 201, "stage_id": 1001, "min_item_id": 0, "max_item_id": 1 },
+    { "id": 301, "stage_id": 1002, "min_item_id": 0, "max_item_id": 2 },
+    { "id": 401, "stage_id": 1003, "min_item_id": 0, "max_item_id": 3 },
+    { "id": 501, "stage_id": 1004, "min_item_id": 0, "max_item_id": 4 },
+    { "id": 601, "stage_id": 1005, "min_item_id": 0, "max_item_id": 5 },
+    { "id": 701, "stage_id": 1006, "min_item_id": 0, "max_item_id": 5 }
+  ]
+}
